@@ -45,7 +45,7 @@ ng new crud-militares
 * Tem que aparecer a mensagem do servidor rodando na porta 8000.
 
 ## Para executar o projeto frontend
-* Baixar o repositorio, entrar na pasta crud-militares.
+* Baixar o repositorio, descompactar o projeto crud-militares.zip.
 * Executar "npm install".
 * Executar "ng build".
 * Executar "ng serve --host 0.0.0.0 --port 2000".
